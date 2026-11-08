@@ -17,8 +17,10 @@ Aplikasi desktop berbasis JavaFX yang dirancang untuk mengelola dan mencatat dat
 ## 🖥️ Tampilan Aplikasi
 1. Form tambah produk
 <img width="431" height="452" alt="Screenshot 2026-11-08 232509" src="https://github.com/user-attachments/assets/c5fa42cc-997b-40d8-afe9-eb155a0476d9" />
+--
 2. Daftar & pencarian produk
 <img width="435" height="454" alt="Screenshot 2026-11-08 232843" src="https://github.com/user-attachments/assets/5925d7db-d87b-48cd-85e6-79e2a74340ef" />
+--
 3. Detail produk
 <img width="434" height="451" alt="Screenshot 2026-11-08 232908" src="https://github.com/user-attachments/assets/568367d5-f810-424f-b6d4-1b7101c7596b" />
 
